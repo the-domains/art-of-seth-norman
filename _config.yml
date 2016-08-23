@@ -1,6 +1,5 @@
-name: Art of Seth Norman
 layout_spectrum: 0.020251449427586832
-typography_spectrum: 0.5155947374636535
+typography_spectrum: 0.46464758832007647
 color:
   brandColors:
     - '#000000'
@@ -8,7 +7,8 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  brandStrength: 0.10196033272825811
-  lightness: 0.2617580051309104
-  saturation: 0.5454469340828237
-  rhythmicContrast: 0.32749258651921187
+  brandStrength: 0.7290316373109818
+  lightness: 0.34338236413896084
+  saturation: 0.13516473048366606
+  rhythmicContrast: 0.07170761888846755
+name: Art of Seth Norman
